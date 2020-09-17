@@ -24,3 +24,5 @@ hs_err_pid*
 /bin/
 .classpath
 .project
+build.fxbuild
+src/application/application.css
